@@ -1,0 +1,7 @@
+9、
+谈谈你对vue组件之间通信的理解？
+这个题目理解为了vue组件之间通信方式：
+1、props/$emit  2、$emit/$on（事件总线） 
+3、vuex（状态机） 4、$attrs/$listeners
+5、provide/inject   6、$parent / $children
+7、ref   8、v-model
